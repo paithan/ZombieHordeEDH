@@ -1,0 +1,40 @@
+Zombie Horde Deck List
+
+This is an evolution of the initial deck from: https://www.quietspeculation.com/2011/09/horde-magic-a-new-way-to-play-magic-and-survive-zombie-invasions/ .  It is designed to be significantly harder than that deck, but still fun to play against.
+
+Updates by: Kyle Burke <paithanq@gmail.com>, Peter Tiernan, and Lucien Pease
+
+Currently 100 Cards (67 Tokens, 33 Spells)
+
+Tokens (67):
+
+8x 5/5 Zombie Giant
+59x 2/2 Zombie
+
+
+Spells (33):
+
+1x Army of the Damned
+2x Bad Moon
+4x Cackling Fiend
+1x Call to the Grave
+1x Death Baron
+2x Delirium Skeins
+1x Endless Ranks of the Dead
+1x Forsaken Wastes
+1x Gloomdrifter
+1x Grave Pact
+1x Grave Titan
+1x Infectious Horror
+1x Living Death
+2x Nested Ghoul
+1x Noxious Ghoul
+1x Plague Wind
+2x Soulless One
+2x Syphon Flesh
+1x Twilight's Call
+1x Unbreathing Horde
+1x Undead Warchief
+2x Vengeful Dead
+1x Vulturous Zombie
+1x Zombie Apocalypse

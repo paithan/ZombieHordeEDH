@@ -1,0 +1,24 @@
+Revised Zombie Horde Quick Rules, by Kyle Burke <paithanq@gmail.com>.
+
+The full rules are on the original page where the game was defined.  Here are the quick rules I use to remind myself how to play.  There are some changes here that make it more fun to play as well.
+
+
+
+* Survivors have 40 life total.
+
+* 25 cards from Zombie Horde deck for each player.  (So currently it only goes up to 4 players.)
+
+* Survivors don't draw on their first turn.
+
+* Difficulty levels:
+
+  - Novice: Survivors take 4 turns before the zombies go.
+  
+  - Normal: 3 turns
+  
+  - Challenge: 2 turns
+  
+  - Professional: 1 turn
+  
+  - Legendary: Zombies go first.
+
